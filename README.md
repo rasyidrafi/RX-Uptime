@@ -20,7 +20,7 @@ npm start
 
 Open config.js to configure.  
 - Configure the interval (seconds) inside config.js
-- Configure what site to be pinged inside config.js
+- Configure what sites to be pinged inside config.js
 
 
 ## License
