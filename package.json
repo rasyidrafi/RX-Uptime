@@ -1,0 +1,15 @@
+{
+  "name": "uptime-robot",
+  "version": "1.0.0",
+  "description": "Simple uptime-robot by R45Y1D",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "R45Y1D",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
